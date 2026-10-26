@@ -35,9 +35,8 @@ I specialize in threat monitoring, log analysis, SIEM deployment, and network ha
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CJ-innov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
-
 ---
 
 ### Connect With Me
