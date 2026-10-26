@@ -17,11 +17,11 @@ I specialize in threat monitoring, log analysis, SIEM deployment, and network ha
 
 ### 🚀 Featured Security Labs & Projects
 
-* **[Wazuh-SIEM-Windows-Lab](https://github.com/CJ-Innov/wazuh-siem-windows-lab)**
+* **[Wazuh-SIEM-Windows-Lab](https://github.com/username/wazuh-siem-windows-lab)**
   * Centralized SIEM deployment connecting an Ubuntu Wazuh Manager to a Windows Server 2022 endpoint.
   * Implemented Real-Time File Integrity Monitoring (FIM) via custom `<syscheck>` configurations and resolved real-world UTF-8 XML encoding hurdles.
 
-* **[Secure-Hotel-Network-Topology](https://github.com/CJ-Innov/hotel-network-security)**
+* **[Secure-Hotel-Network-Topology](https://github.com/username/hotel-network-security)**
   * Segmented, fault-tolerant enterprise network built for a three-floor hotel using Cisco Packet Tracer.
   * Configured OSPF dynamic routing with automated core failover, router-on-a-stick inter-VLAN routing, and strict least-privilege extended ACLs to prevent lateral movement.
 
