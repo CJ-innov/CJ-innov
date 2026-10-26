@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Chia Joshua
 
-🛡️ **Junior SOC Analyst & Ethical Hacker** based in Douala, Cameroon. 
+🛡️ **Junior SOC Analyst & Ethical Hacker** 
 
 I specialize in threat monitoring, log analysis, SIEM deployment, and network hardening. I love bridging the gap between hands-on infrastructure engineering and defensive security operations.
 
